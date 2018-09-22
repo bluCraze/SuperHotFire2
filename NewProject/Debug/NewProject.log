@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\esaacahn\desktop\newproject\newproject\source.cpp(78): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORDLONG'
+  c:\users\esaacahn\desktop\newproject\newproject\source.cpp(78): note: consider using '%lld' in the format string
+  c:\users\esaacahn\desktop\newproject\newproject\source.cpp(78): note: consider using '%I64d' in the format string
+c:\users\esaacahn\desktop\newproject\newproject\source.cpp(82): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'DWORDLONG'
+  c:\users\esaacahn\desktop\newproject\newproject\source.cpp(82): note: consider using '%lld' in the format string
+  c:\users\esaacahn\desktop\newproject\newproject\source.cpp(82): note: consider using '%I64d' in the format string
+  NewProject.vcxproj -> C:\Users\EsaacAhn\Desktop\NewProject\Debug\NewProject.exe
